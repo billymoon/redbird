@@ -23,9 +23,11 @@
   },
   "homepage": "https://github.com/OptimalBits/redbird",
   "dependencies": {
+    "basic-auth": "^2.0.0",
     "bluebird": "^3.4.0",
     "bunyan": "^1.8.1",
     "dolphin": "*",
+    "http-auth": "^3.2.3",
     "http-proxy": "^1.14.0",
     "le-challenge-fs": "^2.0.4",
     "le-store-certbot": "^2.0.3",
